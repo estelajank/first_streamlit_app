@@ -44,4 +44,4 @@ streamlit.dataframe(my_data_rows)
 
 #New section to add a text box
 fruit_choice2 = streamlit.text_input('What fruit would you like to add?', 'jackfruit')
-streamlit.write('The user entered', fruit_choice2)
+streamlit.write('Thanks for adding', fruit_choice2)
